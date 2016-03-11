@@ -1,6 +1,13 @@
 spark-dataflow
 ==============
 
+## Migrated to Apache Beam
+
+__This repository is no longer maintained since the Spark Runner has been donated to the
+[Apache Beam (incubating)](https://github.com/apache/incubator-beam/) project.__
+
+Please see the [Spark Runner in the Beam repository](https://github.com/apache/incubator-beam/tree/master/runners/spark).
+
 ## Intro
 
 Spark-dataflow allows users to execute data pipelines written against the Google Cloud Dataflow API
